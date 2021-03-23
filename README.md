@@ -1,2 +1,9 @@
-# visionartificial2021
-Trabajos Prácticos de Visión Artificial - 2021 - Rosso Martin / Mercante Santiago
+Vision Artificial 2021
+
+Repositorio de Trabajos Prácticos
+
+Institución: UTN Facultad Regional San Francisco
+Carrera: Ingeniería Electrónica
+Profesor: Redolfi Javier
+Alumnos: Rosso Martin / Mercante Santiago
+
