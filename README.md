@@ -1,4 +1,4 @@
-Vision Artificial 2021
+Visión Artificial 2021
 
 Repositorio de Trabajos Prácticos
 
